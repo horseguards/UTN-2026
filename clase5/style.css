@@ -1,0 +1,13 @@
+
+h1 {
+    color: blue;
+    text-align: center;
+    background-color: blueviolet
+}   
+h2 {
+    color: red;
+}
+.titulo-especial {
+    color: rgb(128, 0, 96);
+    text-align: left;
+}
