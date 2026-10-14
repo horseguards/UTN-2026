@@ -2,7 +2,7 @@
 h1 {
     color: blue;
     text-align: center;
-    background-color: blueviolet
+    background-color: rgb(144, 116, 170)
 }   
 h2 {
     color: red;
@@ -11,3 +11,8 @@ h2 {
     color: rgb(128, 0, 96);
     text-align: left;
 }
+.titulo-menosespecial
+    {
+        color: rgb(0, 128, 128);
+        text-align: right;
+    }

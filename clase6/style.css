@@ -1,0 +1,27 @@
+*{box-sizing: border-box;}
+/*
+display
+box-modeling:
+width
+height
+border
+padding
+margin
+box-sizing
+border-radius   
+box-shadow
+
+Flexbox
+*/
+body
+{
+    background-color: #f1f1f1;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+}
+.padre
+{
+     height: 200px;
+     background-color: red;
+     align-items: center;
+}
